@@ -1,3 +1,4 @@
+The project is an exercise in: using arrays, inserting data from an external file, and algorithmic thinking.
 In the 'BeerProfit.java' file, create methods that implement the following tasks:
 
   task 1.
